@@ -11,3 +11,6 @@ The program contains several classes:
 - NetReporter and ProcessReporter - these classes are responsible for writing the generated logs to a Notepad file.
 
 ## Information Display:
+The information is output via hard-coded paths. These can be found in the Program class under the following variables: *systemLogPath, processLogPath, and networkLogPath*.
+In addition, some information is displayed only once. For example, system information and other static data.
+Information such as processes (and their properties) and network information is updated every 5 seconds.
