@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\dotnet\\BackgroundApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C4348E-985F-408F-B04C-6E47312EC408}|BackgroundApp\\BackgroundApp.csproj|d:\\c#\\dotnet\\backgroundapp\\backgroundapp\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C4348E-985F-408F-B04C-6E47312EC408}|BackgroundApp\\BackgroundApp.csproj|solutionrelative:backgroundapp\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C4348E-985F-408F-B04C-6E47312EC408}|BackgroundApp\\BackgroundApp.csproj|d:\\c#\\dotnet\\backgroundapp\\backgroundapp\\services\\processreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C4348E-985F-408F-B04C-6E47312EC408}|BackgroundApp\\BackgroundApp.csproj|solutionrelative:backgroundapp\\services\\processreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C4348E-985F-408F-B04C-6E47312EC408}|BackgroundApp\\BackgroundApp.csproj|d:\\c#\\dotnet\\backgroundapp\\backgroundapp\\services\\iprocessreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C4348E-985F-408F-B04C-6E47312EC408}|BackgroundApp\\BackgroundApp.csproj|solutionrelative:backgroundapp\\services\\iprocessreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C4348E-985F-408F-B04C-6E47312EC408}|BackgroundApp\\BackgroundApp.csproj|d:\\c#\\dotnet\\backgroundapp\\backgroundapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C4348E-985F-408F-B04C-6E47312EC408}|BackgroundApp\\BackgroundApp.csproj|solutionrelative:backgroundapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C4348E-985F-408F-B04C-6E47312EC408}|BackgroundApp\\BackgroundApp.csproj|d:\\c#\\dotnet\\backgroundapp\\backgroundapp\\services\\inetworkmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C4348E-985F-408F-B04C-6E47312EC408}|BackgroundApp\\BackgroundApp.csproj|solutionrelative:backgroundapp\\services\\inetworkmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C4348E-985F-408F-B04C-6E47312EC408}|BackgroundApp\\BackgroundApp.csproj|d:\\c#\\dotnet\\backgroundapp\\backgroundapp\\services\\networkmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C4348E-985F-408F-B04C-6E47312EC408}|BackgroundApp\\BackgroundApp.csproj|solutionrelative:backgroundapp\\services\\networkmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NetworkMonitor.cs",
+              "DocumentMoniker": "D:\\C#\\dotnet\\BackgroundApp\\BackgroundApp\\Services\\NetworkMonitor.cs",
+              "RelativeDocumentMoniker": "BackgroundApp\\Services\\NetworkMonitor.cs",
+              "ToolTip": "D:\\C#\\dotnet\\BackgroundApp\\BackgroundApp\\Services\\NetworkMonitor.cs",
+              "RelativeToolTip": "BackgroundApp\\Services\\NetworkMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:40:08.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INetworkMonitor.cs",
+              "DocumentMoniker": "D:\\C#\\dotnet\\BackgroundApp\\BackgroundApp\\Services\\INetworkMonitor.cs",
+              "RelativeDocumentMoniker": "BackgroundApp\\Services\\INetworkMonitor.cs",
+              "ToolTip": "D:\\C#\\dotnet\\BackgroundApp\\BackgroundApp\\Services\\INetworkMonitor.cs",
+              "RelativeToolTip": "BackgroundApp\\Services\\INetworkMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:38:08.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessReporter.cs",
+              "DocumentMoniker": "D:\\C#\\dotnet\\BackgroundApp\\BackgroundApp\\Services\\ProcessReporter.cs",
+              "RelativeDocumentMoniker": "BackgroundApp\\Services\\ProcessReporter.cs",
+              "ToolTip": "D:\\C#\\dotnet\\BackgroundApp\\BackgroundApp\\Services\\ProcessReporter.cs",
+              "RelativeToolTip": "BackgroundApp\\Services\\ProcessReporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T19:22:58.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProcessReporter.cs",
+              "DocumentMoniker": "D:\\C#\\dotnet\\BackgroundApp\\BackgroundApp\\Services\\IProcessReporter.cs",
+              "RelativeDocumentMoniker": "BackgroundApp\\Services\\IProcessReporter.cs",
+              "ToolTip": "D:\\C#\\dotnet\\BackgroundApp\\BackgroundApp\\Services\\IProcessReporter.cs",
+              "RelativeToolTip": "BackgroundApp\\Services\\IProcessReporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T19:21:24.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\dotnet\\BackgroundApp\\BackgroundApp\\Program.cs",
+              "RelativeDocumentMoniker": "BackgroundApp\\Program.cs",
+              "ToolTip": "D:\\C#\\dotnet\\BackgroundApp\\BackgroundApp\\Program.cs",
+              "RelativeToolTip": "BackgroundApp\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T11:52:47.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\C#\\dotnet\\BackgroundApp\\BackgroundApp\\Worker.cs",
+              "RelativeDocumentMoniker": "BackgroundApp\\Worker.cs",
+              "ToolTip": "D:\\C#\\dotnet\\BackgroundApp\\BackgroundApp\\Worker.cs",
+              "RelativeToolTip": "BackgroundApp\\Worker.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAwJoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T11:52:42.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 359,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
